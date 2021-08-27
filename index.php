@@ -20,8 +20,6 @@
 
     $funcionario[0]->calcularSalario();
 
-    $funcionario[0]->infoFuncionario();
-    
     ?>
 </body>
 </html>

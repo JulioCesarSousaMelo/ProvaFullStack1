@@ -47,12 +47,12 @@ class Funcionario{
         $this->carreira = $carreira;
     }
 
-    public function getSalario()
+    private function getSalario()
     {
         return $this->salario;
     }
 
-    public function setSalario($salario)
+    private function setSalario($salario)
     {
         $this->salario = $salario;
     }
