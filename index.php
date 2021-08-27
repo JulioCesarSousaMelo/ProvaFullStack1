@@ -8,6 +8,8 @@
 </head>
 
 <body>
+
+    <!-- Arquivo criado para teste -->
     <?php
 
     require_once 'Funcionario.php';
