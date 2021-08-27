@@ -1,15 +1,14 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48533900/131188351-f98a7acb-cc94-47eb-a9fc-4d10c50bdbf2.png" />
+</p>
+
 <h1 align="center" font-weight:bold>
-  Prova Prática - Processo Seletivo
+  Prova Prática - Primeira Parte
 </h1>
 <h2 align="center">
-  Primeira Parte
+  Processo Seletivo 
 </h2>
-<p align="center">
-	<a href="#-sobre-o-projeto">Sobre</a> •
- 	<a href="#-como-executar-o-projeto">Como executar</a> • 
- 	<a href="#-metas-no-projeto">Metas</a> • 
-  <a href="#-tecnologias">Tecnologias</a>
-</p>
 
 ## :pencil: Sobre o projeto
 É a primeira etapa de um processo seletivo para a vaga de Desenvolvedor Web - PHP na empresa [Soluti](https://www.soluti.com.br).
@@ -27,7 +26,7 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-É preciso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) e o Php também instalado.
+É preciso ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/), Php e uma ferramenta de Servidor Local.
 
 #### 🧭 Rodando o projeto
 
