@@ -36,10 +36,13 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/JulioCesarSousaMelo/ProvaFullStack1.git
+$ git clone https://github.com/JulioCesarSousaMelo/ProvaFullStack2.git
+$ abiri o mesmo no VSCode
 
-# Ligue a sua ferramenta de servidor local (ex: XAMPP, MAMP, WAMP)
-$ alterar a porta do apache para 8080
+# Configurar o MAMP
+$ ligue o mesmo 
+$ mude as porta do apache para -> 8080
+$ selecione o PHP 7.4.1
 
 ```
 
