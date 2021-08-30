@@ -44,5 +44,3 @@ $ alterar a porta do apache para 8080
 ```
 
 ---
-
-Feito por: Júlio César S. Melo 🇧🇷
